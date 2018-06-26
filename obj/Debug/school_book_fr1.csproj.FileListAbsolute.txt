@@ -1,0 +1,5 @@
+c:\users\sundaramaran\documents\visual studio 2012\Projects\school_book_fr1\school_book_fr1\school_book_fr1\school_book_fr1\bin\school_book_fr1.dll
+c:\users\sundaramaran\documents\visual studio 2012\Projects\school_book_fr1\school_book_fr1\school_book_fr1\school_book_fr1\bin\school_book_fr1.pdb
+c:\users\sundaramaran\documents\visual studio 2012\Projects\school_book_fr1\school_book_fr1\school_book_fr1\school_book_fr1\obj\Debug\school_book_fr1.dll
+c:\users\sundaramaran\documents\visual studio 2012\Projects\school_book_fr1\school_book_fr1\school_book_fr1\school_book_fr1\obj\Debug\school_book_fr1.pdb
+C:\Users\Sundaramaran\documents\visual studio 2012\Projects\school_book_fr1\school_book_fr1\school_book_fr1\school_book_fr1\obj\Debug\school_book_fr1.csprojResolveAssemblyReference.cache
